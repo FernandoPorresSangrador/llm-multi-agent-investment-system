@@ -1,0 +1,11 @@
+langchain
+langchain-community
+pydantic
+transformers
+torch
+scikit-learn
+pandas
+numpy
+yfinance
+matplotlib
+jupyter

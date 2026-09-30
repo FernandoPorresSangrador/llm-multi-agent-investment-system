@@ -1,0 +1,51 @@
+ticker,señal,justificacion
+AAPL,HOLD,RSI neutro y fundamentales sólidos pero valoración alta
+MSFT,BUY,RSI bajo con fuerte crecimiento y buenas perspectivas
+NVDA,BUY,"RSI alto pero crecimiento muy alto, valoración razonable"
+GOOGL,HOLD,"RSI neutro, fundamentales sólidas, valoración alta"
+META,BUY,RSI neutro con crecimiento y rentabilidad altas
+AVGO,BUY,RSI elevado pero buenas perspectivas y baja volatilidad
+AMD,HOLD,"RSI elevado, alza significativa pero valoración alta"
+ORCL,BUY,"RSI bajo, buenos fundamentales y baja volatilidad"
+INTC,SELL,"RSI muy alto, mala situación financiera y alza excesiva"
+QCOM,HOLD,"RSI bajo, perspectivas prometedoras pero valoración moderada"
+JNJ,HOLD,RSI alto pero crecimiento ingresos sólido y valoración razonable
+UNH,BUY,RSI alto pero volatilidad alta con perspectivas favorables
+LLY,BUY,Crecimiento ingresos sólido y Sharpe Ratio positiva
+ABBV,SELL,Valoración alta y crecimiento lento
+MRK,HOLD,RSI alto pero valoración razonable con volatilidad media
+TMO,HOLD,"RSI alto pero crecimiento y margen neto fuertes, valoración alta"
+ABT,BUY,"RSI bajo con crecimiento y marginas fuertes, valoración razonable"
+PFE,SELL,RSI neutro con bajos datos fundamentales y elevada volatilidad
+MDT,HOLD,"RSI alto pero crecimiento y marginas fuertes, volatilidad moderada"
+BMY,BUY,"RSI bajo con crecimiento y marginas fuertes, valoración razonable"
+JPM,HOLD,RSI elevado y MACD positivo pero volatilidad alta
+BAC,BUY,RSI alto con fuerte crecimiento y buenas perspectivas
+WFC,HOLD,RSI alto con P/E razonable y margen neto sólido
+GS,BUY,RSI alto con elevado retorno anualizado y crecimiento ingresos
+MS,BUY,RSI bajo con fuerte crecimiento y buenas perspectivas
+BLK,BUY,"RSI bajo y MACD negativa con crecimiento fuerte y margen neto alto, pero alta volatilidad"
+AXP,HOLD,"RSI neutral y fundamentales sólidos, pero alto riesgo y altas expectativas del mercado"
+C,BUY,"RSI muy alto y MACD positiva con crecimiento moderado y margen neto alto, pero alto riesgo"
+USB,BUY,"RSI muy alto y MACD positiva con crecimiento moderado y margen neto alto, bajo riesgo"
+PNC,BUY,"RSI muy alto y MACD positiva con crecimiento moderado y margen neto alto, bajo riesgo"
+AMZN,HOLD,RSI alto pero MACD negativo y volatilidad alta
+TSLA,BUY,"Bajos RSI y MACD, crecimiento negativo pero Sharpe Ratio positiva"
+HD,HOLD,"RSI moderado, P/E baja pero deuda alta"
+MCD,BUY,"Bajos RSI y MACD, volatilidad baja y crecimiento positivo"
+NKE,SELL,"RSI muy bajo, P/E y Sharpe Ratio negativos, alto máximo descuento"
+SBUX,HOLD,"RSI alto, P/E alta pero crecimiento y retorno positivos"
+TGT,BUY,RSI moderado con crecimiento y retorno positivo
+LOW,HOLD,"RSI alto, P/E alta pero crecimiento y retorno positivos"
+F,BUY,"RSI bajo, P/E baja y retorno positivo"
+GM,HOLD,"RSI moderado, retorno muy alto pero P/E alta y deuda elevada"
+XOM,BUY,RSI bajo y MACD positivo con buen crecimiento y baja deuda
+CVX,HOLD,RSI bajo pero volatilidad alta y retorno moderado
+COP,BUY,RSI bajo y MACD positivo con crecimiento y margen neto altos
+SLB,SELL,RSI alto y indicadores técnicos negativos con alto riesgo
+EOG,BUY,"RSI neutro pero buen crecimiento, baja deuda y alto retorno"
+CAT,BUY,"RSI alto y MACD positivo, bajo deuda/capital y crecimiento sostenido"
+BA,SELL,"RSI alto y MACD negativo, alta deuda/capital y elevado riesgo"
+HON,HOLD,"RSI alto y MACD neutro, valoración moderada y buenas perspectivas"
+GE,BUY,"RSI neutro, altos indicadores técnicos y crecimiento sostenido"
+LMT,SELL,"RSI bajo y MACD negativo, alta deuda/capital y elevado riesgo"
